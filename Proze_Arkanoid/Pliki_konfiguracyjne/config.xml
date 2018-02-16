@@ -1,0 +1,87 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<config>	
+<mainMenuWidth>1000</mainMenuWidth>	
+<mainMenuHeight>700</mainMenuHeight>	
+<frameTitle>Arkanoid</frameTitle>	
+<gameTitle>Arkanoid 2017/2018</gameTitle>	
+<mainMenuNewGameBtn>Nowa gra</mainMenuNewGameBtn>	
+<mainMenuHighScoreBtn>Najlepsze wyniki</mainMenuHighScoreBtn>	
+<mainMenuQuitBtn>Wyjście</mainMenuQuitBtn>	
+<frameTitleQuit>Wyjście z gry</frameTitleQuit>	
+<quitDialogText>Czy na pewno chcesz opuścić grę?</quitDialogText>	
+<quitDialogOptionYes>Tak</quitDialogOptionYes>	
+<quitDialogOptionNo>Nie</quitDialogOptionNo>	
+<frameTitleNick>Nick gracza</frameTitleNick> 
+<nickDialogText>Podaj swój nick:</nickDialogText>	
+<nextBtn>Dalej</nextBtn>	
+<backToMainMenuBtn>Cofnij</backToMainMenuBtn>	
+<frameTitleDiffLevel>Poziom trudności</frameTitleDiffLevel> 
+<diffLevelDialogText>Wybierz poziom trudności:</diffLevelDialogText>	
+<levelEasyBtn>Łatwy</levelEasyBtn>	
+<levelMediumBtn>Sredni</levelMediumBtn>	
+<levelHardBtn>Trudny</levelHardBtn>	
+<highScoreFile>Pliki_konfiguracyjne//highscore.xml </highScoreFile>	
+<fileNotFoundText>Nie znaleziono pliku</fileNotFoundText>	
+<frameTitleFileNotFound>Błąd</frameTitleFileNotFound>	
+<heightOfInfoPanel>1</heightOfInfoPanel>	
+<widthOfInfoPanel>0.20</widthOfInfoPanel> 
+<heightOfGamePanel>1</heightOfGamePanel>	
+<widthOfGamePanel>0.79</widthOfGamePanel>	
+<pointLabelText>Punkty: </pointLabelText>	
+<remainingLifesLabelText>Życia: </remainingLifesLabelText>	
+<nickLabelText>Nick: </nickLabelText>	
+<timeLabelText>Czas gry: </timeLabelText>	
+<pauzaBtn>Pauza</pauzaBtn>	
+<backToGameBtn>Wznów</backToGameBtn>	
+<quitToMainMenuBtn>Wyjście do głównego menu</quitToMainMenuBtn>	
+<frameTitleQuitToMainMenu>Wyjście do menu</frameTitleQuitToMainMenu>	
+<quitToMainMenuText>Czy na pewno chcesz wyjść do głównego menu?</quitToMainMenuText>		
+<initialAmountOfPoints>0</initialAmountOfPoints>	
+<initialTime>0000</initialTime>	
+<initialLifes>3</initialLifes>	
+<numberOfBrickRows>5</numberOfBrickRows>	
+<numberOfBrickColumnes>10</numberOfBrickColumnes>	
+<brickStartX>0</brickStartX>	
+<brickStartYCounter>11</brickStartYCounter>	
+<brickStartYDenominator>12</brickStartYDenominator>	
+<brickHeight>0.045</brickHeight>	
+<brickWidth>0.083</brickWidth>
+<boosterHeight>0.045</boosterHeight>	
+<boosterWidth>0.03</boosterWidth>
+<blackBrickLifes>1</blackBrickLifes>	
+<blackBrickPoints>40</blackBrickPoints>	
+<redBrickLifes>3</redBrickLifes>	
+<redBrickPoints>50</redBrickPoints>	
+<yellowBrickLifes>2</yellowBrickLifes>	
+<yellowBrickPoints>30</yellowBrickPoints>	
+<greenBrickLifes>1</greenBrickLifes>	
+<greenBrickPoints>15</greenBrickPoints>	
+<noneBrickLifes>0</noneBrickLifes>	
+<noneBrickPoints>0</noneBrickPoints>	
+<paddleWidthRatio>0.120</paddleWidthRatio>	
+<paddleHeightRatio>0.03</paddleHeightRatio>	
+<ballRadius>0.025</ballRadius>	
+<paddleStartX>0.5</paddleStartX>	
+<paddleStartY>0.9</paddleStartY>	
+<levelFile>Pliki_konfiguracyjne</levelFile>
+<xmlLvlFile>Pliki_konfiguracyjne\\</xmlLvlFile>	
+<firstLevel>1</firstLevel> 
+<lastLevel>3</lastLevel>	
+<lifesOverText>Nie masz już więcej żyć</lifesOverText>	
+<gameOverText>Koniec gry</gameOverText>
+<ballXVelocity>0.005</ballXVelocity>
+<ballYVelocity>0.02</ballYVelocity>
+<maxAngle>30</maxAngle>
+<paddleXVelocity>0.01</paddleXVelocity>
+<easyBallXVelocity>0.004</easyBallXVelocity>
+<easyBallYVelocity>0.008</easyBallYVelocity>
+<mediumBallXVelocity>0.006</mediumBallXVelocity>
+<mediumBallYVelocity>0.012</mediumBallYVelocity>
+<hardBallXVelocity>0.008</hardBallXVelocity>
+<hardBallYVelocity>0.016</hardBallYVelocity>
+<initBallNormXPosition>0.5</initBallNormXPosition>
+<initBallNormYPosition>0.85</initBallNormYPosition>
+
+
+
+</config>

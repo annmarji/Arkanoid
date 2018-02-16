@@ -1,0 +1,30 @@
+                        Gra Arkanoid by Anna&Karol
+	
+    Cel gry:
+  Zbicie wszystkich cegie³ek na planszy przy pomocy paletki i pi³eczki.
+  
+    Gra:
+  Po wyborze nowej gry nale¿y podaæ nick gracza oraz wybraæ poziom trudnoœci gry.
+  Gracz mo¿e poruszaæ paletk¹ w lewo lub w prawo za pomoc¹ strza³ek na klawiaturze.
+  Spacja powoduje zatrzymanie gry. By j¹ wznowiæ nale¿y ponownie nacisn¹æ spacjê.
+
+    Rodzaje cegie³ek:
+  Czerwone: po zbiciu zmieniaj¹ siê w ¿ó³te, a gracz dostaje 50 punktów;
+  ¯ó³te: po zbiciu zmieniaj¹ siê w zielone, a gracz dostaje 30 punktów;
+  Zielone: po zbiciu znikaj¹, a gracz dostaje 15 punktów;
+  Czarne: po zbiciu pojawiaj¹ siê bonusy do zebrania, a gracz dostaje 40 punktów.
+  
+    Rodzaje bonusów:
+  Czarny: Zmniejsza paletkê o po³owê szerokoœci;
+  ¯ó³ty: Zwiêksza szerokoœæ paletki dwukrotnie;
+  Zielony: Dodatkowe 100 punktów;
+  Czerwony: Dodatkowe ¿ycie;
+  Niebieski: Przyspiesza pi³eczkê.
+
+    Koniec gry:
+  Gra koñczy siê kiedy gracz utraci wszystkie ¿ycia lub ukoñczy wszystkie poziomy.
+  Za pozosta³e ¿ycia gracz dostaje dodatkowo 30 punktów za ka¿de.
+  Je¿eli ukoñczy poziom przed up³ywem 3 minut, to za ka¿d¹ sekundê poni¿ej 3 minut
+  uzyskuje dodatkowe 2 punkty.
+  Wynik punktowy gracza jest zapisywany na listê najlepszych wyników je¿eli jest
+  lepszy od ostatniego wyniku na liœcie.

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><level1>	
+<row ID="1">		
+<column ID="1">0</column>		
+<column ID="2">0</column>		
+<column ID="3">0</column>		
+<column ID="4">0</column>		
+<column ID="5">0</column>		
+<column ID="6">2</column>		
+<column ID="7">0</column>		
+<column ID="8">0</column>		
+<column ID="9">0</column>		
+<column ID="10">4</column>		
+</row>	
+<row ID="2">		
+<column ID="1">0</column>		
+<column ID="2">0</column>		
+<column ID="3">0</column>		
+<column ID="4">0</column>		
+<column ID="5">3</column>		
+<column ID="6">0</column>		
+<column ID="7">0</column>		
+<column ID="8">0</column>		
+<column ID="9">1</column>		
+<column ID="10">0</column>	
+</row>	
+<row ID="3">		
+<column ID="1">0</column>		
+<column ID="2">4</column>		
+<column ID="3">0</column>		
+<column ID="4">0</column>		
+<column ID="5">0</column>		
+<column ID="6">0</column>		
+<column ID="7">1</column>		
+<column ID="8">0</column>		
+<column ID="9">0</column>		
+<column ID="10">0</column>	
+</row>	
+<row ID="4">		
+<column ID="1">0</column>		
+<column ID="2">0</column>		
+<column ID="3">0</column>		
+<column ID="4">0</column>		
+<column ID="5">0</column>		
+<column ID="6">0</column>		
+<column ID="7">0</column>		
+<column ID="8">0</column>		
+<column ID="9">0</column>		
+<column ID="10">0</column>		
+</row>	
+<row ID="5">		
+<column ID="1">0</column>		
+<column ID="2">0</column>		
+<column ID="3">1</column>		
+<column ID="4">0</column>		
+<column ID="5">0</column>		
+<column ID="6">0</column>		
+<column ID="7">0</column>		
+<column ID="8">0</column>		
+<column ID="9">0</column>		
+<column ID="10">0</column>			
+</row>	
+</level1>
